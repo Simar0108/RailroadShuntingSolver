@@ -1,0 +1,27 @@
+Summary Statistics for Puzzle: hard2
+==================================================
+
+Algorithm: UCS
+------------------------------
+Path Length: 10
+Nodes Expanded: 705
+Max Queue Size: 398
+Execution Time: 0.0444 seconds
+Nodes per Second: 15890.93
+
+Algorithm: A* Misplaced
+------------------------------
+Path Length: 14
+Nodes Expanded: 736
+Max Queue Size: 451
+Execution Time: 0.0434 seconds
+Nodes per Second: 16957.76
+
+Algorithm: A* Manhattan
+------------------------------
+Path Length: 14
+Nodes Expanded: 41
+Max Queue Size: 73
+Execution Time: 0.0027 seconds
+Nodes per Second: 15156.57
+

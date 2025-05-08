@@ -1,0 +1,27 @@
+Summary Statistics for Puzzle: medium2
+==================================================
+
+Algorithm: UCS
+------------------------------
+Path Length: 6
+Nodes Expanded: 118
+Max Queue Size: 58
+Execution Time: 0.0089 seconds
+Nodes per Second: 13230.18
+
+Algorithm: A* Misplaced
+------------------------------
+Path Length: 16
+Nodes Expanded: 112
+Max Queue Size: 56
+Execution Time: 0.0058 seconds
+Nodes per Second: 19357.26
+
+Algorithm: A* Manhattan
+------------------------------
+Path Length: 6
+Nodes Expanded: 9
+Max Queue Size: 17
+Execution Time: 0.0007 seconds
+Nodes per Second: 12892.33
+

@@ -1,0 +1,27 @@
+Summary Statistics for Puzzle: custom
+==================================================
+
+Algorithm: UCS
+------------------------------
+Path Length: 10
+Nodes Expanded: 453
+Max Queue Size: 301
+Execution Time: 0.0257 seconds
+Nodes per Second: 17626.72
+
+Algorithm: A* Misplaced
+------------------------------
+Path Length: 14
+Nodes Expanded: 346
+Max Queue Size: 255
+Execution Time: 0.0158 seconds
+Nodes per Second: 21878.27
+
+Algorithm: A* Manhattan
+------------------------------
+Path Length: 24
+Nodes Expanded: 262
+Max Queue Size: 181
+Execution Time: 0.0146 seconds
+Nodes per Second: 17995.70
+

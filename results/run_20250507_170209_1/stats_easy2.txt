@@ -1,0 +1,27 @@
+Summary Statistics for Puzzle: easy2
+==================================================
+
+Algorithm: UCS
+------------------------------
+Path Length: 4
+Nodes Expanded: 10
+Max Queue Size: 8
+Execution Time: 0.0011 seconds
+Nodes per Second: 8935.46
+
+Algorithm: A* Misplaced
+------------------------------
+Path Length: 14
+Nodes Expanded: 52
+Max Queue Size: 18
+Execution Time: 0.0043 seconds
+Nodes per Second: 12018.06
+
+Algorithm: A* Manhattan
+------------------------------
+Path Length: 4
+Nodes Expanded: 7
+Max Queue Size: 7
+Execution Time: 0.0006 seconds
+Nodes per Second: 11305.40
+
